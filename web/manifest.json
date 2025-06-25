@@ -1,6 +1,6 @@
 {
-    "name": "test_first_app",
-    "short_name": "test_first_app",
+    "name": "zemedicai",
+    "short_name": "zemedicai",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
